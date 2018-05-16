@@ -4,6 +4,11 @@
 
     $ python3 -m unittest test.py
 
+
+## Test (Faster)
+
+    $ pypy3 -m unittest test.py
+
 ## Documentation
 
     $ pydoc chain
